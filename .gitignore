@@ -1,1 +1,4 @@
  
+.gradle
+target
+/dependency-reduced-pom.xml
